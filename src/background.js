@@ -15,7 +15,7 @@ async function createWindow() {
   const win = new BrowserWindow({
     backgroundColor: 'rgb(21, 112, 194)',
     width: 1920,
-    height: 1080,
+    height: 1070,
     title: "Weather",
     icon: "./src/assets/logo.ico",
     center: true,
